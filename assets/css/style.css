@@ -331,9 +331,12 @@
   }
   .about-me {
     grid-template-columns: 1fr;
+    margin: auto;
   }
   .image {
     height: 500px;
+    margin: auto;
+    text-align: center;
   }
 
 }
