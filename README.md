@@ -2,7 +2,7 @@
 
 ## Portifólio
 
-<a href="https://gabrielvieira1m.github.io/portifolio/"><img src="./assets/images/site.jpeg" alt="Imagem do site"></a>
+<a href="https://gabrielvieira1m.github.io/portifolio/"><img src="./assets/images/site-desktop.jpeg" alt="Imagem do site"></a>
 
 
 ### Tecnologias
